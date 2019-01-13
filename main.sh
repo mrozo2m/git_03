@@ -1,3 +1,4 @@
 #Copyright by Michał Mrozik
 # program wyswietlajacy tekst w konsoli
-echo "Hello world"
+echo "Hello " $USER
+ls -lsh ~ > lista_plikow.txt
