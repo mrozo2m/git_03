@@ -1,0 +1,20 @@
+razem 88K
+4,0K drwxr-xr-x  3 mrozo mrozo 4,0K gru 16 16:49 aaa
+4,0K drwxr-xr-x  2 mrozo mrozo 4,0K lis 23 03:13 Dokumenty
+4,0K drwxrwxr-x  2 mrozo mrozo 4,0K sty 13 15:00 Downloads
+4,0K drwx------  4 mrozo mrozo 4,0K gru  5 06:30 Dropbox
+4,0K -rwxr-xr-x  1 mrozo mrozo   14 gru 16 16:01 echo.sh
+ 12K -rw-r--r--  1 mrozo mrozo 8,8K lis 23 02:54 examples.desktop
+4,0K drwxrwxr-x  5 mrozo mrozo 4,0K sty 13 15:11 IdeaProjects
+4,0K drwxr-xr-x 11 mrozo mrozo 4,0K gru 16 18:07 jjdzl1-materialy-linux
+4,0K drwxr-xr-x  2 mrozo mrozo 4,0K gru 16 15:33 linux-test
+4,0K drwxr-xr-x  2 mrozo mrozo 4,0K lis 23 03:13 Muzyka
+4,0K drwxr-xr-x  2 mrozo mrozo 4,0K lis 23 03:13 Obrazy
+4,0K drwxr-xr-x  2 mrozo mrozo 4,0K sty 13 15:05 Pobrane
+4,0K drwxr-xr-x  2 mrozo mrozo 4,0K lis 23 03:13 Publiczny
+4,0K drwxr-xr-x  3 mrozo mrozo 4,0K sty 13 15:06 Pulpit
+4,0K drwxr-xr-x  4 mrozo mrozo 4,0K gru 12 18:37 snap
+8,0K -rw-rw-r--  1 mrozo mrozo   81 gru 16 16:21 some-file-with-lot-of-lines.txt
+4,0K -rw-r--r--  1 mrozo mrozo  170 gru 16 16:45 spakowane.tar.gz
+4,0K drwxr-xr-x  2 mrozo mrozo 4,0K lis 23 03:13 Szablony
+4,0K drwxr-xr-x  2 mrozo mrozo 4,0K lis 23 03:13 Wideo
